@@ -1,13 +1,13 @@
-{
-  {
-    "postId": 1,
+[
+	"posts":[  {
+    
     "id": 1,
     "name": "el abbadi abderrahim",
     "email": "elabbadi2002@gmail.com",
     "Type": "sans additif"
   },
   {
-    "postId": 1,
+   
     "id": 2,
     "name": "marouane acharifi",
     "email": "marouaneacharifi@gmail.com",
@@ -21,14 +21,14 @@
     "Type": "separateur de s�rum"
   },
   {
-    "postId": 1,
+   
     "id": 4,
     "name": "hicham el abbadi",
     "email": "hicham@alysha.tv",
     "Type": "pst"
   },
   {
-    "postId": 1,
+   
     "id": 5,
     "name": "mourad el abbadi ",
     "email": "mourad@garfield.biz",
@@ -42,10 +42,16 @@
     "Type": "glucose"
   },
   {
-    "postId": 1,
+    
     "id": 7,
     "name": "salah ",
     "email": "salah@gmail.com",
     "Type": "acd"
   }
-}
+
+
+
+
+
+
+]
